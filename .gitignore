@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Environment variables
+.env
+*.env.*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log and data files
+*.log
+*.csv
+*.pkl
+*.h5
