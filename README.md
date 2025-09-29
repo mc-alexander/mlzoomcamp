@@ -1,6 +1,6 @@
 # My Machine Learning Zoomcamp Journey
 
-![[./img/course-banner.png]]
+<img src="./img/course-banner.png" alt="Course Banner" width="95%"/>
 [Know more about Honduras](https://en.wikipedia.org/wiki/Honduras)
 
 ## About This Repository
