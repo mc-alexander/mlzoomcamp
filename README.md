@@ -16,6 +16,7 @@ This section contains links to the folders for each course module. Each folder i
 
 - **Module 1:** [Introduction to Machine Learning](./01-introduction/)
 - **Module 2:** [Machine Learning for Regression](./02-regression/)
+- **Module 3:** [Machine Learning for Classification](./03-classification/)
 
 ---
 
